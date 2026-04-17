@@ -127,6 +127,13 @@ http://127.0.0.1:8000/docs
 
 ---
 
+## 📊 Key Insights
+
+- Customers with month-to-month contracts are more likely to churn
+- Higher monthly charges increase churn risk
+- Customers with longer tenure are less likely to churn
+- Lack of tech support and online security increases churn probability
+
 ## 💡 Author
 
 Built by Namit
